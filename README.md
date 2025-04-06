@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML and Game Development Projects<br><br>🌱 I’m currently learning Web Development, AI/ML.<br><br> 🙌 I'm a big Open Source Enthusiast.<br><br>⚡Fun Fact! I love to listen to music, And hitting the Gym.<br><br> 💭 Ask Me any questions related to web dev and AI/ML
+🔭 I’m currently working on AI/ML and Web Development Projects<br><br>🌱 I’m currently learning advanced AI/ML<br><br> 🙌 I'm a big Open Source Enthusiast.<br><br>⚡Fun Fact! I love to listen to music, And hitting the Gym.<br><br> 💭 Ask Me any questions related to web dev and AI/ML
 
 
 ## 🌐 Socials:
